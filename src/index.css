@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --font-serif: 'Cormorant Garamond', Georgia, serif;
+    --font-sans: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+  }
+
+  body {
+    font-family: var(--font-sans);
+    background-color: #FBFBF9;
+    color: #1C211D;
+  }
+
+  h1, h2, .font-display {
+    font-family: var(--font-serif);
+  }
+}

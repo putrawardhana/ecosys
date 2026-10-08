@@ -1,0 +1,6 @@
+{
+  "name": "EcoSys — Sustainable Fashion",
+  "description": "Gaya berkelanjutan untuk masa depan bumi. Koleksi pakaian ramah lingkungan berbahan 100% organik dan daur ulang.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
